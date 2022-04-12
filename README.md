@@ -17,8 +17,12 @@
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-  <div>
+  </div>
 </div>
+
+<br>
+
+[![eoeo0326's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoeo0326&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eoeo0326/eoeo0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

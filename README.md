@@ -26,8 +26,8 @@
 | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> |
 
 <br>
+<br>
 
 [![eoeo0326's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoeo0326&theme=buefy&show_icons=true)](https://github.com/eoeo0326)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoeo0326&theme=buefy&layout=donut)](https://github.com/eoeo0326)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eoeo0326)](https://solved.ac/eoeo0326)

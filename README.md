@@ -27,7 +27,7 @@
 
 <br>
 
-[![eoeo0326's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoeo0326&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![eoeo0326's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoeo0326&theme=buefy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![eoeo0326's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoeo0326&theme=buefy&show_icons=true)](https://github.com/eoeo0326)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoeo0326&theme=buefy&layout=donut)](https://github.com/eoeo0326)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eoeo0326)](https://solved.ac/eoeo0326)
